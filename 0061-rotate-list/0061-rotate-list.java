@@ -13,6 +13,7 @@ class Solution {
         if (head == null) {
             return null;
         }
+//using arry list
 
         ArrayList<ListNode> list = new ArrayList<>();
 
